@@ -4,7 +4,10 @@
 
                                                
 - 🌱 I’m currently learning Cybersecurity
-- 👯 I’m looking to collaborate on Cybersecurity 
+- 👯 I’m looking to collaborate on Cybersecurity
+- 💬 Ask me about Tech
+- 😄 Pronouns: Techie.
+- 📫 How to reach me :
 <br>[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/surya-palanisamy-/)
 [<img src="https://img.shields.io/badge/Instagram-0077B5?style=for-the-badge&logo=instagram&logoColor=pink" >](https://www.instagram.com/surya_palanisamy28?igsh=eG1nbTN6eHAwazR2)
 
