@@ -22,8 +22,7 @@
 
 ---
 ### OS I Use
-<img height="50" width="50" src = "https://img.icons8.com/color/48/linux--v1.png" /> <img height="50" width="50" src="https://img.icons8.com/fluency/48/windows-11.png" />
-
+<img height="50" width="50" src="https://img.icons8.com/fluency/48/windows-11.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/ubuntu--v1.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/kali-linux.png"/>
 
 
 
