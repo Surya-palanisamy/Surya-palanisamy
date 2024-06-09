@@ -1,8 +1,5 @@
 ## Hi there 👋 It's me Surya
 
-
-
-                                               
 - 🌱 I’m currently learning Cybersecurity
 - 👯 I’m looking to collaborate on Cybersecurity
 - 💬 Ask me about Tech
@@ -15,24 +12,28 @@
 
 
 ### Tech i Know
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/c-programming.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/bash.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/50/css3.png"/><img height="50" width="50" src="https://img.icons8.com/color/50/javascript.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/96/docker.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/console.png">
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" alt="python"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/c-programming.png" alt="c programming"/> <img height="50" width="50" src="https://img.icons8.com/color/48/bash.png" alt="bash"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/html-5.png" alt="html-5"/> <img height="50" width="50" src="https://img.icons8.com/color/50/css3.png" alt="css-3"/><img height="50" width="50" src="https://img.icons8.com/color/50/javascript.png" alt="javascript"/><img width="50" height="50" src="https://img.icons8.com/nolan/64/markdown.png" alt="markdown"/>  <img height="50" width="50" src="https://img.icons8.com/color/96/docker.png" alt="docker"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png" alt="git"/><img height="50" width="50" src="https://img.icons8.com/color/48/console.png" alt="terminal">
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/metasploit.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/nmap.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/virtualbox.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/metasploit.png" alt="metasploit"/> <img height="50" width="50" src="https://img.icons8.com/color/48/nmap.png" alt="nmap"/> <img height="50" width="50" src="https://img.icons8.com/color/50/virtualbox.png" alt="virtual-box"/>
 
 ---
 ### OS I Use
-<img height="50" width="50" src="https://img.icons8.com/fluency/48/windows-11.png" /><img height="50" width="50" src="https://img.icons8.com/color/48/ubuntu--v1.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/kali-linux.png"/>
+<img height="50" width="50" src="https://img.icons8.com/fluency/48/windows-11.png" alt="windows"/><img width="50" height="50" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux"/>
 <br>
 
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=Surya-palanisamy&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Surya-palanisamy&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Surya-palanisamy&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ---
+[![](https://visitcount.itsvg.in/api?id=Surya-palanisamy&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Surya-palanisamy&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Surya-palanisamy&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
-###
+
 
 
