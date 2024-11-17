@@ -28,7 +28,7 @@
   <img height="50" width="50" src="https://img.icons8.com/color/50/tailwind_css.png" alt="tailwindcss" />
   <img height="50" width="50" src="https://img.icons8.com/color/50/000000/nodejs.png" alt="nodejs" />
   <img height="50" width="50" src="https://img.icons8.com/nolan/50/express-js.png" alt="express" />
-<img width="50" height="50" src="https://img.icons8.com/wired/64/postman-api.png" alt="postman-api"/>
+<img width="50" height="50" src="icons8-postman-api.svg" alt="postman-api"/>
   <img height="50" width="50" src="https://img.icons8.com/color/50/mongo-db.png" alt="mongodb" />
   <img height="50" width="50" src="https://img.icons8.com/color/50/google-firebase-console.png" alt="firebase" />
   <img height="50" width="50" src="https://img.icons8.com/nolan/50/markdown.png" alt="markdown" />
