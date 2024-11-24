@@ -44,6 +44,8 @@
 <div>
   <img height="50" width="50" src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png" alt="vs code" />
    <img height="50" width="50" src="https://img.icons8.com/color/50/figma--v1.png" alt="figma" />
+   <img height="50" width="50" src="https://img.icons8.com/fluency/48/canva.png" alt="canva" />
+  
 </div>
 
 <hr />
