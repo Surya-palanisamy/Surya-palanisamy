@@ -50,3 +50,9 @@
   <img src="https://img.icons8.com/fluency/50/windows-11.png" alt="Windows" height="50" />
   <img src="https://img.icons8.com/color/50/linux--v1.png" alt="Linux" height="50" />
 </p>
+
+
+
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surya-palanisamy&show_icons=true&locale=en&layout=compact" alt="surya-palanisamy" /></p>
