@@ -22,13 +22,11 @@
   <img src="https://img.icons8.com/color/50/000000/javascript.png" alt="JavaScript" height="50" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="50" />
   <img src="https://img.icons8.com/color/50/tailwind_css.png" alt="TailwindCSS" height="50" />
-  
   <img src="https://img.icons8.com/color/50/000000/nodejs.png" alt="Node.js" height="50" />
-  
   <img src="https://img.icons8.com/color/50/mongo-db.png" alt="MongoDB" height="50" />
   <img height="50" src="https://img.icons8.com/ios/50/prisma-orm.png" alt="prisma-orm"/>
   <img  height="50" src="https://img.icons8.com/color/50/nginx.png" alt="nginx"/>
-  <img height="50" src="https://img.icons8.com/material-sharp/50/amazon-web-services.png" alt="amazon-web-services"/>
+  <img width="50" height="50" src="https://img.icons8.com/color/50/amazon-web-services.png" alt="amazon-web-services"/>
   <img src="https://img.icons8.com/color/50/google-firebase-console.png" alt="Firebase" height="50" />
   <img height="50" src="https://img.icons8.com/color/50/java-web-token.png" alt="java-web-token"/>
   <img src="https://img.icons8.com/nolan/50/markdown.png" alt="Markdown" height="50" />
