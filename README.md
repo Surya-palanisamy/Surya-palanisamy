@@ -1,5 +1,5 @@
 # Hi there 👋 It's me Surya
-- [**Portfolio**](https://surya-palanisamy11.web.app/)
+- [**Portfolio**](https://suryapalanisamy.live/)
 - 🌱 I’m currently learning Web Development
 - [**Web Development Cheat Sheet**](https://excalidraw.com/#json=X16f_h4XvN0UWYS8V_0fo,7owZj03N10OpYBsFWz_3aA)
 - 👯 I’m looking to collaborate as a Web Developer  
