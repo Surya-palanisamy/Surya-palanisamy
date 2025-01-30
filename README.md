@@ -1,7 +1,7 @@
 # **Surya Palanisamy**
 - [**Portfolio**](https://suryapalanisamy.live/)
 - 🌱 I’m currently learning Web Development
-- [**Web Development Cheat Sheet**](https://excalidraw.com/#json=X16f_h4XvN0UWYS8V_0fo,7owZj03N10OpYBsFWz_3aA)
+- [**Web Development Cheat Sheet**](https://excalidraw.com/#json=tHJ5qSCfvaVLD7ONLUR_c,OrnKOABKr9mFfQvXh-TRxA)
 - 👯 I’m looking to collaborate as a Web Developer  
 - 📫 How to reach me:  
 
