@@ -23,13 +23,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" height="50" />
   <img src="https://img.icons8.com/color/50/tailwind_css.png" alt="TailwindCSS" height="50" />
   <img src="https://img.icons8.com/color/50/000000/nodejs.png" alt="Node.js" height="50" />
-  <img src="https://img.icons8.com/color/50/mongo-db.png" alt="MongoDB" height="50" />
-  <img height="50" src="https://img.icons8.com/ios/50/prisma-orm.png" alt="prisma-orm"/>
-  <img  height="50" src="https://img.icons8.com/color/50/nginx.png" alt="nginx"/>
-  <img width="50" height="50" src="https://img.icons8.com/color/50/amazon-web-services.png" alt="amazon-web-services"/>
-  <img src="https://img.icons8.com/color/50/google-firebase-console.png" alt="Firebase" height="50" />
-  <img height="50" src="https://img.icons8.com/color/50/java-web-token.png" alt="java-web-token"/>
-  <img src="https://img.icons8.com/nolan/50/markdown.png" alt="Markdown" height="50" />
+  <img src="https://img.icons8.com/color/50/mongo-db.png" alt="MongoDB" height="50" /
   <img src="https://img.icons8.com/color/50/000000/docker.png" alt="Docker" height="50" />
   <img src="https://img.icons8.com/color/50/000000/git.png" alt="Git" height="50" />
 </p>
@@ -42,7 +36,6 @@
   <img src="https://img.icons8.com/color/50/000000/visual-studio-code-2019.png" alt="VS Code" height="50" />
   <img src="https://img.icons8.com/color/50/figma--v1.png" alt="Figma" height="50" />
   <img src="https://img.icons8.com/fluency/50/canva.png" alt="Canva" height="50" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="45"  />
 </p>
 
 ---
