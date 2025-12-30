@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Web Development
 - [**Web Development Cheat Sheet**](https://excalidraw.com/#json=tHJ5qSCfvaVLD7ONLUR_c,OrnKOABKr9mFfQvXh-TRxA)
 - 👯 I’m looking to collaborate as a Web Developer  
-- 📫 How to reach me:  
+- 📫 How to reach me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-fff?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/surya-palanisamy-/)
 [![Instagram](https://img.shields.io/badge/Instagram-fff?style=for-the-badge&logo=instagram&logoColor=pink)](https://www.instagram.com/surya_palanisamy28?igsh=eG1nbTN6eHAwazR2)
@@ -46,9 +46,4 @@
   <img src="https://img.icons8.com/fluency/50/windows-11.png" alt="Windows" height="50" />
   <img src="https://img.icons8.com/color/50/linux--v1.png" alt="Linux" height="50" />
 </p>
-
-
-
-
-
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=surya-palanisamy&show_icons=true&locale=en&layout=compact" alt="surya-palanisamy" /></p>
